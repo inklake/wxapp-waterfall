@@ -1,0 +1,21 @@
+.product {
+  background: #fff;
+  position: relative;
+  margin-bottom: 20rpx;
+  border-radius: 10rpx;
+  overflow: hidden;
+}
+
+.product__image {
+  width: 100%;
+  display: block;
+}
+
+.product__title {
+  padding: 10rpx;
+}
+
+.product__price {
+  padding: 0 10rpx 10rpx;
+  color: red;
+}

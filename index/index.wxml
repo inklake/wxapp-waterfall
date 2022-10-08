@@ -1,0 +1,3 @@
+<waterfall-index id="waterfall-index" generic:item="product-index" />
+
+<view class="more" bindtap="getList">加载更多</view>

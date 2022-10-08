@@ -1,0 +1,8 @@
+{
+  "enablePullDownRefresh": true,
+  "onReachBottomDistance": 500,
+  "usingComponents": {
+    "waterfall-index": "/components/waterfall/index",
+    "product-index": "/components/product/index"
+  }
+}

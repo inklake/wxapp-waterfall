@@ -1,0 +1,5 @@
+<view class="product">
+  <image class="product__image" mode="aspectFill" src="{{info.image}}" style="width:{{width}}rpx;height:{{345 * info.image_height/info.image_width}}rpx" lazy-load webp />
+  <view class="product__title">{{info.name}}</view>
+  <view class="product__price">¥ {{info.price}}</view>
+</view>

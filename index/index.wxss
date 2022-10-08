@@ -1,0 +1,8 @@
+page {
+  background: #f4f4f4;
+}
+
+.more {
+  text-align: center;
+  padding: 0 0 100rpx;
+}

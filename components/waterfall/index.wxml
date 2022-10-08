@@ -1,0 +1,8 @@
+<view class="row" style="padding:{{padding}}rpx">
+  <view class="col">
+    <item info="{{item}}" width="{{width}}" wx:for="{{listLeft}}" wx:key="index" />
+  </view>
+  <view class="col">
+    <item info="{{item}}" width="{{width}}" wx:for="{{listRight}}" wx:key="index" />
+  </view>
+</view>
